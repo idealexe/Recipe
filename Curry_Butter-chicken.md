@@ -6,7 +6,7 @@
 * 総合すると800円程度だろうか
 
 | 材料 | 分量 | 備考 | 参考価格 |
-|:---|:---|:---|:---|
+|:---|:---|:---|---:|
 | 鶏もも肉 | 400g | [鶏の皮をはずし、一口大に切っておく](https://www.nipponham.co.jp/recipes/meat/knowhow/process/04.html) | 500円 |
 | ヨーグルト | 大さじ2 | - |
 | にんにく | [1片](https://cookpad.com/cooking_basics/9924) | [みじん切りしておく](https://cookpad.com/cooking_basics/11162) |
